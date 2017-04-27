@@ -1,6 +1,6 @@
 # npmtest-purdy
 
-#### test coverage for  [purdy (v2.2.1)](https://github.com/danielb2/purdy.js)  [![npm package](https://img.shields.io/npm/v/npmtest-purdy.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-purdy) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-purdy.svg)](https://travis-ci.org/npmtest/node-npmtest-purdy)
+#### basic test coverage for  [purdy (v2.2.1)](https://github.com/danielb2/purdy.js)  [![npm package](https://img.shields.io/npm/v/npmtest-purdy.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-purdy) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-purdy.svg)](https://travis-ci.org/npmtest/node-npmtest-purdy)
 
 #### Pretty print objects in real purdy colors. Allows clearer visualization of objects than you get from most pretty printers due to colors. It will also print out the complete path to an object, something that's extremly useful for debugging. Purdy will also
 
@@ -10,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-purdy/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-purdy/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-purdy/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-purdy/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-purdy/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-purdy/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-purdy/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-purdy/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-purdy/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-purdy/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-purdy/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-purdy/build/coverage.html/index.html)
 
